@@ -1,1 +1,1 @@
-# -EasyShare-frontend
+# EasyShare-frontend
